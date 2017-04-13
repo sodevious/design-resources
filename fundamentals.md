@@ -31,8 +31,3 @@
 * [An Introduction to Color Theory for Web Designers](https://webdesign.tutsplus.com/articles/an-introduction-to-color-theory-for-web-designers--webdesign-1437)
 * [A Simple Web Developer’s Guide To Color](https://www.smashingmagazine.com/2016/04/web-developer-guide-color/)
 * [A Guide to Color, UX, and Conversion Rates](https://www.usertesting.com/blog/2014/12/02/color-ux-conversion-rates/)
-
-**Reading List**
-
-* [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
-* [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_bxgy_14_2?_encoding=UTF8&pd_rd_i=0321965515&pd_rd_r=W7CKBAF50H2QAPG8CAA5&pd_rd_w=pcOd5&pd_rd_wg=XFXft&psc=1&refRID=W7CKBAF50H2QAPG8CAA5)
