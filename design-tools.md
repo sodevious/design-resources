@@ -13,3 +13,12 @@
 # User Experience
 
 * [UX Checklist](https://uxchecklist.github.io/)
+
+# Communities & News
+
+* [Designer News](https://www.designernews.co/)
+* [Dribbble](https://dribbble.com)
+* [Product Design Weekly](http://designweekly.atomic.io/)
+
+
+
