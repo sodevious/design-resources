@@ -4,11 +4,13 @@
 
 
 # Books
-* [The Manual](https://themanual.org/read) A series of longform reads on design. 
-* [The Shape of Design](http://shapeofdesignbook.com/) 
+* [The Manual](https://themanual.org/read) A series of longform reads on design.  *free online*
+* [The Shape of Design](http://shapeofdesignbook.com/)  *free online*
 * [Recommended design magazines](https://www.designernews.co/stories/81101-recommended-design-magazines)
 * [The Design of Everyday Things: Revised and Expanded Edition](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654)
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_bxgy_14_2?_encoding=UTF8&pd_rd_i=0321965515&pd_rd_r=W7CKBAF50H2QAPG8CAA5&pd_rd_w=pcOd5&pd_rd_wg=XFXft&psc=1&refRID=W7CKBAF50H2QAPG8CAA5)
+* [JUST ENOUGH RESEARCH](https://abookapart.com/products/just-enough-research)
+* [The User Experience Team of One](http://rosenfeldmedia.com/books/the-user-experience-team-of-one/)
 
 
 # Video
