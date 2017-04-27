@@ -11,6 +11,9 @@
 * [Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_bxgy_14_2?_encoding=UTF8&pd_rd_i=0321965515&pd_rd_r=W7CKBAF50H2QAPG8CAA5&pd_rd_w=pcOd5&pd_rd_wg=XFXft&psc=1&refRID=W7CKBAF50H2QAPG8CAA5)
 * [JUST ENOUGH RESEARCH](https://abookapart.com/products/just-enough-research)
 * [The User Experience Team of One](http://rosenfeldmedia.com/books/the-user-experience-team-of-one/)
+* [Lean UX](https://www.amazon.com/Lean-UX-Applying-Principles-Experience/dp/1449311652)
+
+
 
 
 # Video
